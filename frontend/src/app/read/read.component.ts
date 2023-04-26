@@ -18,7 +18,7 @@ export class ReadComponent implements OnInit{
   }
 
   //Get delete id
-  deleteId(id:any)
+  deleteID(id:any)
   {
     console.log(id,'deleteid==>');
 
